@@ -24,3 +24,23 @@ a {
 color: black;
 padding: 10px;
 }
+
+
+.column {
+display: flex;
+}
+
+.large {
+border: 1px solid black;
+width: 630px;
+}
+
+.medium {
+border: 1px solid black;
+width: 300px;
+}
+
+.small {
+border: 1px solid black;
+width: 240px;
+}
